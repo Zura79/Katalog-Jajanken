@@ -1,0 +1,16 @@
+{
+    "name": "Jajanken Ramen",
+    "short_name": "Jajanken",
+    "description": "Website katalog produk Jajanken",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f3b221",
+    "theme_color": "#f3b221",
+    "icons": [
+        {
+            "src": "/img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
